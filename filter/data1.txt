@@ -1,0 +1,10 @@
+1	xu
+2	han
+3	wang
+4	zhang
+5	liu
+6	wu
+7	xing
+8	bai
+9	li
+10	liang
